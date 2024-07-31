@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Jose Santo</h1>
-<h3 align="center">ACSO-IEDC JEC| UI UX designer| Web developer | MuLearn campus Web IG Lead | Public Speaking</h3>
+<h3 align="center">Tech Lead-IEDC JEC| UI UX designer| Web developer | Public Speaking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realityaudiostudio&label=Profile%20views&color=0e75b6&style=flat" alt="realityaudiostudio" /> </p>
-
-- 🔭 I’m currently working on [REVXPO](https://revxpo.netlify.app/)
 
 - 🌱 I’m currently learning **React JS, Firebase, Supabase**
 
